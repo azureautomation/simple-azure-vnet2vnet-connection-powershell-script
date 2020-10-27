@@ -1,0 +1,20 @@
+{
+    "Author": "Tariq Younas",
+    "ContentSize": 5490,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/simple-azure-vnet2vnet-connection-powershell-script/master/VNet_2_VNet_Conn.ps1",
+    "DownloadCount": 598,
+    "Id": "Simple-VNet-2-VNet-3da93f19",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 388,
+    "RaterCount": 3,
+    "Rating": 2.7,
+    "ReleaseDate": "2017-2-28T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The purpose of this script is to create two Azure Virtual Networks in different Azure regions and then make connectivity between them. PowerShell script will create Virtual Networks, Define Virtual Gateways, Virtual Networks Connections and connectivity between them. Just defin",
+    "Title": "Simple Azure - VNet-2-VNet Connection - PowerShell Script",
+    "UpdatedDate": "2017-2-28T00:00:00",
+    "Url": "https://github.com/azureautomation/simple-azure-vnet2vnet-connection-powershell-script",
+    "UserTags": "Networking, Virtual Networks, azure virtual network gateway"
+}
